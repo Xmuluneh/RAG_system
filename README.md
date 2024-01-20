@@ -1,7 +1,7 @@
 ## Retrieval Augmented Generation (RAG)
-PromptlyTech revolutionizes business interaction with Language Models (LLMs) through innovative AI-driven solutions. Specializing in prompt engineering, the company enhances decision-making, operational efficiency, and customer experience. Key services include Automatic Prompt Generation, Automatic Test Case Generation, and Prompt Testing and Ranking:
-
-1. **Automatic Prompt Generation:**
+PromptlyTech revolutionizes business interaction with Language Models (LLMs) through innovative AI-driven solutions. Specializing in prompt engineering, the company enhances decision-making, operational efficiency, and customer experience. 
+## Key services
+1. **Automatic Prompt Generation**
    Streamlining prompt creation, this service empowers businesses to efficiently leverage LLMs for high-quality content generation, reducing time and manual effort.
 
 2. **Automatic Test Case Generation:**
