@@ -9,7 +9,10 @@ PromptlyTech revolutionizes business interaction with Language Models (LLMs) thr
 
 3. **Prompt Testing and Ranking:**
    Evaluating and ranking prompts based on effectiveness ensures LLMs deliver accurate, contextually relevant responses. This enhances user engagement and satisfaction in chatbot and virtual assistant interactions.
-
+## Features
+1. Streamlined prompt engineering tailored for business applications.
+2. Integration seamlessly with cutting-edge LLMs such as GPT-3.5 and GPT-4.
+3. Automated testing and ranking for elevated user engagement and satisfaction.
 ## Getting Started
 `git clone https://github.com/Xmuluneh/RAG_system.git`
 
