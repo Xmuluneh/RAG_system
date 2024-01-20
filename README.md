@@ -16,6 +16,7 @@ PromptlyTech revolutionizes business interaction with Language Models (LLMs) thr
 `cd RAG_system`
 
 ## Installation
+**backend**
 ```
 ## Install Pyenv
 brew install pyenv pyenv-virtualenv
@@ -24,5 +25,16 @@ pyenv install 3.12.0
 ## Create a virtualenv
 pyenv versions
 pyenv virtualenv 3.12.0 rag_system
-pyenv local myproject
+pyenv local rag_system
+# install requirements
+pip install -r requirements.txt
 ```
+**frontend**
+```
+npx create-react-app front-end
+rm -rf .git
+```
+
+## Contribution Guidelines
+
+I invite community contributions with open arms. Please feel free to initiate discussions, submit pull requests, and collaborate with me to enhance the toolkit. Your participation is highly valued and contributes to the continuous improvement of this project.
